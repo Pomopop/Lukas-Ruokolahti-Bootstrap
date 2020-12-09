@@ -1706,7 +1706,7 @@ pre code {
 .table-borderless tbody + tbody {
   border: 0;
 }
-
+ 
 .table-striped tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
 }
@@ -4727,6 +4727,8 @@ input[type="button"].btn-block {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
+
+
 }
 
 .card > hr {
